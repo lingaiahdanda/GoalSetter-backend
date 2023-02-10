@@ -8,12 +8,12 @@
 
 #  FOllowing are the routes 
 
-## /users/ :- To Register the user
-## /users/login :- login to the application
-## /me :- To authorize
+## api/users/ :- To Register the user
+## api/users/login :- login to the application
+## api/me :- To authorize
 ## All the API's are authorized using JWT token
-## /goals :- Retrives the golas of a particular user
-## /:id :- to update and delete the goals
+## api/goals :- Retrives the golas of a particular user
+## api/goals/:id :- to update and delete the goals
 
 # Backend dependencies
 npm install
