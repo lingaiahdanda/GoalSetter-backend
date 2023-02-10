@@ -11,7 +11,7 @@
 ## About the Restful API
 1. The routes are authrorized using JWT.
 
-## FOllowing are the routes 
+## Following are the routes 
 1. [post]api/users/ :- To Register the user
 2. [post]api/users/login :- login to the application
 3. [post]api/me :- To authorize
