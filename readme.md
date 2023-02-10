@@ -7,16 +7,16 @@
   a. npm install
   b. Make sure you chnge the .env file wit the mongo db atlas url to your db
   c. npm run server
+  
 ## About the Restful API
-# The routes are authrorized using JWT.
+1. The routes are authrorized using JWT.
 
 ## FOllowing are the routes 
-# api/users/ :- To Register the user
-# api/users/login :- login to the application
-# api/me :- To authorize
-# All the API's are authorized using JWT token
-# api/goals :- Retrives the golas of a particular user
-# api/goals/:id :- to update and delete the goals
+1. [post]api/users/ :- To Register the user
+2. [post]api/users/login :- login to the application
+3. [post]api/me :- To authorize
+4. [GET]api/goals :- Retrives the golas of a particular user
+5. api/goals/:id :- to update and delete the goals
 
 
 ## Deployment
