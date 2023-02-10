@@ -4,7 +4,7 @@
 ## Usage
 # This api is deployed in AWS EC2 instance 
 
-## The instance is running at this IP https://3.231.202.54 hosted in AWS Ec2
+## The instance is running at this IP http://44.201.27.178:8000
 
 #  FOllowing are the routes 
 
